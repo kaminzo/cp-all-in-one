@@ -1,4 +1,12 @@
 ![image](../images/confluent-logo-300-2.png)
+
+# JDBC Source for SQL Server
+
+<https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc>
+
+Build image
+
+`docker build -t localbuild/kafka-connect-datagen-jdbc-source:0.4.0-6.0.1 -f Dockerfile .`
   
 # Documentation
 
